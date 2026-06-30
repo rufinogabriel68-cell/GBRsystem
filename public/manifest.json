@@ -1,0 +1,32 @@
+{
+  "name": "GBR OS — Sistema Empresarial",
+  "short_name": "GBR OS",
+  "description": "Sistema operacional empresarial para gestão de assistência técnica",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0b1a",
+  "theme_color": "#7c4dff",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Abrir chamado",
+      "url": "/chamado",
+      "description": "Abrir novo chamado técnico"
+    }
+  ]
+}
