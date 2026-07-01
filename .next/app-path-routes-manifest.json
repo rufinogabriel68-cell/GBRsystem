@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/acompanhar/[numero]/page": "/acompanhar/[numero]",
+  "/api/auth/demo/route": "/api/auth/demo",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/logout/route": "/api/auth/logout",
+  "/api/auth/me/route": "/api/auth/me",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/health/route": "/api/health",
+  "/api/notify/route": "/api/notify",
+  "/api/public/os/[numero]/message/route": "/api/public/os/[numero]/message",
+  "/api/public/os/[numero]/route": "/api/public/os/[numero]",
+  "/api/public/os/route": "/api/public/os",
+  "/api/state/route": "/api/state",
+  "/chamado/page": "/chamado",
+  "/page": "/"
+}

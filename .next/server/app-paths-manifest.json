@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/acompanhar/[numero]/page": "app/acompanhar/[numero]/page.js",
+  "/api/auth/demo/route": "app/api/auth/demo/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/logout/route": "app/api/auth/logout/route.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/health/route": "app/api/health/route.js",
+  "/api/notify/route": "app/api/notify/route.js",
+  "/api/public/os/[numero]/message/route": "app/api/public/os/[numero]/message/route.js",
+  "/api/public/os/[numero]/route": "app/api/public/os/[numero]/route.js",
+  "/api/public/os/route": "app/api/public/os/route.js",
+  "/api/state/route": "app/api/state/route.js",
+  "/chamado/page": "app/chamado/page.js",
+  "/page": "app/page.js"
+}
