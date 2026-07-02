@@ -3,7 +3,7 @@ import { getSystemState, saveSystemState, mergeWithDbState } from "@/lib/system-
 import type { State } from "@/lib/types";
 
 const SYSTEM_USER = {
-  id: "default",
+  id: "758884ce-1349-47b3-aedb-1a4a6afa55f5",
   name: "Administrador",
   email: "admin@gbr.os",
 };
